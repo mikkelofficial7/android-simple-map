@@ -9,5 +9,5 @@
     <string name="yes">Yes</string>
     <string name="no">No</string>
 
-    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBEevHzTDxVDb6v15G0Hd_1CphAXpM_dhM</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_GOOGLE_APIKEY</string>
 </resources>
