@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="its_me">You are here</string>
+    <string name="unable_create_map">Sorry! unable to create maps</string>
+    <string name="error">Unable to get location</string>
+    <string name="permission_denied">Please allow this permission to use this application</string>
+    <string name="gps_title">Please turn on your GPS for better experience</string>
+    <string name="gps_desc">Turn on now?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBEevHzTDxVDb6v15G0Hd_1CphAXpM_dhM</string>
+</resources>
